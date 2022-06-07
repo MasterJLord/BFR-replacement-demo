@@ -9,10 +9,10 @@ screen=pygame.display.set_mode((1200,800))
 #variables setup
 IgnorePresses = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 FullLibrary = {
-    "strike":"strike.webp",
-    "defend":"defend.webp",
-    "bonk":"bash.webp",
-    "heal":"BandageUp.webp",
+    "strike":"strike.png",
+    "defend":"defend.png",
+    "bonk":"bash.png",
+    "heal":"BandageUp.png",
     "up":"up.png",
     "down":"down.png"
 }
